@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sleep 1
+cd /opt/lampp/htdocs/testing
+sleep 1
+python -W ignore Traffic_Sign_Classifier.py
+
